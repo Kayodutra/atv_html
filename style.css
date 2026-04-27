@@ -6,7 +6,7 @@
 
 }
 body{
-    height: 2000px
+    height: 3000px
 }
 header{
     background-color: #333;
@@ -161,4 +161,63 @@ html{
     height: 88px;
     width: 328.06;
     font-size: 24px;
+}
+.texto-nossos-clientes{
+    color: #333;
+    font-size: 30px;
+    position: relative;
+    top: 40px;
+}
+.div-nossos-clientes{
+    position: relative;
+    text-align: center;
+    top: 130px;
+    background-color: #EBEBEB;
+    height: 700px;
+}
+.div-conheca-nossos-clientes{
+    position: relative;
+    text-align: center;
+    top: 130px;
+    background-color: #ffffff;
+    height: 300px;
+
+}
+.txt-conheca-nossos-clientes{
+    color: #333;
+    font-size:30px;
+    position: relative;
+    top: 30px;
+}
+.div-solicite-uma-proposta{
+    background-color: #3D78B1;
+    position: relative;
+    top: 200px;
+    height: 350px;
+}
+.txt-solicite-uma-proposta{
+    color:#fff;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    font-size: 32px;
+}
+.h3-8{
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    position: relative;
+    top: 80px;
+}
+.btn-solicite{
+    color: #3D78B1;
+    height: 88px;
+    width: 328px;
+    font-size: 24px;
+    
+}
+.div-btn{
+    text-align: center;
+    position: relative;
+    top: 130px;
 }
