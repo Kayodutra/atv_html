@@ -221,3 +221,31 @@ html{
     position: relative;
     top: 130px;
 }
+.div-modulos-magento{
+    background-color: #fff;
+    position: relative;
+    top: 200px;
+    height: 1050px;
+}
+.txt-modulos-magento{
+    color: #333;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    font-size: 32px;
+}
+.h3-9{
+    color: #333;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: 24px;
+}
+.div-itau-shopline{
+    background-color: aqua;
+    position: relative;
+    top: 200px;
+    height: 490px;
+    width: 567px;
+    text-align: center;
+}
