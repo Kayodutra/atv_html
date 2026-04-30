@@ -245,7 +245,7 @@ html{
     background-color: #fff;
     position: relative;
     top: 200px;
-    height: 1050px;
+    height: 800px;
 }
 .txt-modulos-magento{
     color: #333;
@@ -370,7 +370,7 @@ html{
     box-shadow: 0 0 0 2px #3D78B1;
     border: 0;
     position: relative;
-    top: 130px;
+    top: 28%;
 }
 .comprar-cielo:hover{
     background-color: #fff;
@@ -410,7 +410,7 @@ html{
     background-color: #fff;
     position: relative;
     justify-content: center;
-    top: -88.5%;
+    top: -116.5%;
     height: 567px;
     width: 370px;
     text-align: center;
@@ -440,7 +440,8 @@ html{
     box-shadow: 0 0 0 2px #3D78B1;
     border: 0;
     position: relative;
-    top: 130px;
+    top: 25%;
+    justify-content: center;
 }
 .comprar-clear:hover{
     background-color: #fff;
@@ -472,4 +473,223 @@ html{
 .img-clear{
     position: relative;
     top: 40px;
+}
+
+.txt-veja-mais{
+    color: #333;
+    position: relative;
+    top: -900px;
+    font-size: 24px;
+    left: 67%;
+}
+.txt-veja-mais:hover{
+    color: #3D78B1;
+}
+
+.linha-azul{
+    background-color: #3d78b1;
+    width: 100%;
+    height: 4px;
+    position: relative;
+    top: 420px;
+}
+.logoetxt{
+    position: relative;
+    top: 440px;
+    left: 20%;
+    font-size: 12px;
+    color: #666;
+
+}
+.img-final{
+vertical-align: bottom;
+padding: 10px;
+}
+
+.img-email{
+    height: 28px;
+    width: 28px;
+    position: relative;
+    top: 330px;
+    left: 37%;
+}
+.img-like{
+    height: 24px;
+    width: 28px;
+    position: relative;
+    top: 320px;
+    left: 37%;
+}
+.title-contato{
+    color: #333;
+    font-weight: bold;
+    position: relative;
+    top: 315px;
+    left: 37%;
+}
+.email{
+    font-size: 14px;
+    color: #666;
+    position: relative;
+    top: 305px;
+    left: 39%;
+}
+.face{
+    font-size: 14px;
+    color: #666;
+    position: relative;
+    top: 300px;
+    left: 39%;
+}
+
+/*css contato e empresa*/
+
+.contato-final{
+    position: relative;
+    left: 1%;
+}
+.div-empresa{
+    color: #333;
+    position: relative;
+    top: 200px;
+    left: 58%;
+
+}
+.qs{
+    color: #666;
+    position: relative;
+    left: -15px;
+    top: 10px;
+    font-size: 14px;
+}
+.qs:hover{
+    color: #666;
+    text-decoration: underline;
+}
+.s{
+    color: #666;
+    position: relative;
+    left: -127px;
+    top: 40px;
+    font-size: 14px;
+}
+.s:hover{
+    color: #666;
+    text-decoration: underline;
+}
+
+.fc{
+    color: #666;
+    position: relative;
+    left: -212px;
+    top: 70px;
+    font-size: 14px;
+}
+.fc:hover{
+    color: #666;
+    text-decoration: underline;
+}
+.c{
+    color: #666;
+    position: relative;
+    left: -326px;
+    top: 100px;
+    font-size: 14px;
+}
+.c:hover{
+    color: #666;
+    text-decoration: underline;
+}
+
+/*css minha conta*/
+
+.div-conta{
+    color: #333;
+    position: relative;
+    top: 162px;
+    left: 70%;
+
+}
+.criar{
+    color: #666;
+    position: relative;
+    left: -15px;
+    top: 10px;
+    font-size: 14px;
+}
+.criar:hover{
+    color: #666;
+    text-decoration: underline;
+}
+.acessar{
+    color: #666;
+    position: relative;
+    left: -145px;
+    top: 40px;
+    font-size: 14px;
+}
+.acessar:hover{
+    color: #666;
+    text-decoration: underline;
+}
+
+.atendimento{
+    color: #666;
+    position: relative;
+    left: -305px;
+    top: 70px;
+    font-size: 14px;
+}
+.atendimento:hover{
+    color: #666;
+    text-decoration: underline;
+}
+.politica{
+    color: #666;
+    position: relative;
+    left: -485px;
+    top: 100px;
+    font-size: 14px;
+}
+.politica:hover{
+    color: #666;
+    text-decoration: underline;
+}
+
+.linha-azul-fina{
+    background-color: #3D78B1;
+    width: 100%;
+    height: 1px;
+    position: relative;
+    top: 280px;
+}
+.magento-lara{
+    position: relative;
+    top: 300px;
+    left: 22%;
+}
+.abcomm{
+    position: relative;
+    top: 250px;
+    left: 30%;
+}
+.magento-red{
+    position: relative;
+    top: 190px;
+    left: 45%;
+}
+.amazon{
+    position: relative;
+    top: 130px;
+    left: 58%;
+}
+.google{
+    position: relative;
+    top: 80px;
+    left: 70%;
+}
+.ultimo{
+    position: relative;
+    top: 110px;
+    text-align: center;
 }
